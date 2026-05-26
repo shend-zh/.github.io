@@ -17,7 +17,7 @@ To appear in Google Search, the site still needs a public web address. Google ca
 3. After the public URL exists, add this line inside the `<head>` of `index.html`, replacing the example URL:
 
 ```html
-<link rel="canonical" href="https://your-public-url.example/">
+<link rel="canonical" href="https://shend-zh.github.io/.github.io/">
 ```
 
 4. Create `sitemap.xml` with the final public URLs:
@@ -26,23 +26,23 @@ To appear in Google Search, the site still needs a public web address. Google ca
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-public-url.example/</loc>
+    <loc>https://shend-zh.github.io/.github.io/</loc>
     <lastmod>2026-05-26</lastmod>
   </url>
   <url>
-    <loc>https://your-public-url.example/research.html</loc>
+    <loc>https://shend-zh.github.io/.github.io/research.html</loc>
     <lastmod>2026-05-26</lastmod>
   </url>
   <url>
-    <loc>https://your-public-url.example/talks.html</loc>
+    <loc>https://shend-zh.github.io/.github.io/talks.html</loc>
     <lastmod>2026-05-26</lastmod>
   </url>
   <url>
-    <loc>https://your-public-url.example/teaching.html</loc>
+    <loc>https://shend-zh.github.io/.github.io/teaching.html</loc>
     <lastmod>2026-05-26</lastmod>
   </url>
   <url>
-    <loc>https://your-public-url.example/notes.html</loc>
+    <loc>https://shend-zh.github.io/.github.io/notes.html</loc>
     <lastmod>2026-05-26</lastmod>
   </url>
 </urlset>

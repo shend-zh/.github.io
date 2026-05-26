@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://shend-zh.github.io/.github.io/sitemap.xml
